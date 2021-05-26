@@ -1,5 +1,6 @@
 # main
 node_modules
+/node_modules
 /dist
 
 # app env file w notion key - do not push up!
