@@ -1,3 +1,3 @@
 # Notion Scheduler Example App
 
-Deleted previous version, and started over. 
+Node-Express backend app, connects to Notion developer API for user calendar data.
